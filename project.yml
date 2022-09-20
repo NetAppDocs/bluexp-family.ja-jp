@@ -71,7 +71,7 @@ product-family:
     icon: "./media/icon-api.png"
     url: https://docs.netapp.com/us-en/cloud-manager-automation/index.html
     summary: クラウドベースのリソースをプログラムで管理できます。
-    tags: all, code
+    tags: all, code, automation
   - title: AppTemplate （アプリケーションテンプレート）
     icon: "./media/icon-app-template.png"
     url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
