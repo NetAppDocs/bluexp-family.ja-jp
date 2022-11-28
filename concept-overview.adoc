@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: concept-overview.html 
+keywords: overview, bluexp, integration, cloud manager, digital advisor, active iq, menu 
+summary: Cloud ManagerがBlueXPになりました。BlueXPを使用すると、単一のコントロールプレーンからハイブリッドマルチクラウドデータを構築、保護、管理できます。 
+---
+= NetApp BlueXPへようこそ
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Cloud Managerの名称はBlueXPに変更されました。BlueXPを使用すると、単一のコントロールプレーンからハイブリッドマルチクラウドデータを構築、保護、管理できます。
+
+
+
+== 統合された管理エクスペリエンス
+
+BlueXPを使用すると'すべてのストレージおよびデータ資産を1つのインタフェースから管理できます
+
+BlueXPを使用して、クラウドストレージ（Cloud Volumes ONTAP やAzure NetApp Files など）の作成と管理、データサービス（クラウドバックアップやクラウドデータセンスなど）の使用、オンプレミスやエッジのストレージデバイスの制御を行うことができます。
+
+* https://cloud.netapp.com["詳細については、BlueXPのWebサイトをご覧ください"^]
+* https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["BlueXPの使用を開始しましょう"^]
+
+
+
+
+== 新しいナビゲーションメニュー
+
+BlueXPのナビゲーションメニューでは、データサービスがカテゴリ別に整理され、機能に応じて名前が付けられています。たとえば、クラウドバックアップにアクセスするには、「*保護*」カテゴリに移動して「*バックアップとリカバリ*」を選択します。
+
+image:screenshot-navigation-menu.png["BlueXPのナビゲーションメニューのスクリーンショット。ストレージやヘルスなどのカテゴリを示しています。"]
+
+
+
+== 新しい製品統合
+
+* EシリーズやStorageGRID など、オンプレミスのストレージシステムをさらに管理できるようになりました。
+* これまでスタンドアロンサービスとしてしか利用できなかったデータサービスを、Digital Advisor（旧Active IQ ）などの個別のUIで使用できるようになりました。
+
+
+*詳細はこちら*
+
+* https://docs.netapp.com/us-en/cloud-manager-e-series/index.html["Eシリーズストレージシステムを管理"^]
+* https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html["StorageGRID ストレージシステムを管理します"^]
+* https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html["Digital Advisorの統合について"^]
+

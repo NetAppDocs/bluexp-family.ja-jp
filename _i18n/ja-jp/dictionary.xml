@@ -1,54 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">手順</block>
-  <block id="0046efb3377274ff3215d4b30269809e" category="list-text">Cloud Manager コンソールの右上にあるヘルプアイコンをクリックし、 * Support * を選択します。</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">[ ヘルプ ] メニューのスクリーンショット。サポートは最初に表示されるオプションです</block>
   <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">[*NSS Management] &gt; [Add NSS Account*] をクリックします。</block>
   <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">メッセージが表示されたら、 [* Continue （続行） ] をクリックして Microsoft ログインページにリダイレクトします。</block>
   <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">ネットアップは、サポートとライセンスに固有の認証サービスのアイデンティティプロバイダとして Microsoft Azure Active Directory を使用しています。</block>
   <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">ログインページで、ネットアップサポートサイトの登録 E メールアドレスとパスワードを入力して認証プロセスを実行します。</block>
   <block id="07d41912a6ab6b97216f8cf89e93205c" category="doc">セルフサポート</block>
-  <block id="51719eefc68685ac0e2a11057a44b8be" category="paragraph">ネットアップでは、 Cloud Manager とその クラウド サービス をさまざまな方法でサポートしています。ナレッジベース（ KB ）記事やコミュニティフォーラムなど、 24 時間 365 日利用可能な幅広いセルフサポートオプションをご用意しています。サポート登録には、 Web チケット処理によるリモートテクニカルサポートが含まれます。</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">次のオプションは、 1 日 24 時間、週 7 日間無料でご利用いただけます。</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">ナレッジベース</block>
   <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
-  <block id="76b571fb5edea1c1994fa0ff01f7b1e2" category="paragraph">Cloud Manager のナレッジベースで問題のトラブルシューティングに役立つ記事を検索してください。</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">コミュニティ</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
-  <block id="7f3490343cad8dc3bfdb72dd5d957e8d" category="paragraph">Cloud Manager コミュニティに参加して、進行中のディスカッションに参加したり、新しいコミュニティを作成したりできます。</block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">ドキュメント</block>
-  <block id="3c313458d6e15dd2c4336e47118d0a8f" category="paragraph">現在表示している Cloud Manager のドキュメント。</block>
   <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">mailto ： ng-cloudmanager-feedback@netapp.com [ フィードバックメール ]</block>
-  <block id="bff60abbc46aceed0f73a3a4f6cfb123" category="paragraph">お客様のご意見をお考えください。Cloud Manager の改善に役立つフィードバックを送信します。</block>
   <block id="0659d428df833a806e29e65e632d380a" category="section-title">ネットアップサポート</block>
-  <block id="6c08c57e382a25a778455184cd9b1a4a" category="list-text">Cloud Manager で、 * Help &gt; Support * の順にクリックします。</block>
   <block id="f5052c65917d7341726235d4d4941461" category="list-text">テクニカルサポートで利用可能なオプションのいずれかを選択します。</block>
-  <block id="801137ecb911e137717f3efd696e31cd" category="summary">Cloud Manager は、 IT エキスパートとクラウドアーキテクトに、ハイブリッドクラウド環境でデータの管理、監視、自動化を行うための一元的なコントロールプレーンを提供します。製品別のドキュメント領域を参照するか、上の検索を使用して、 Cloud Manager のドキュメント内の任意の場所でコンテンツを検索します。</block>
-  <block id="b3a853d57fdef5749cc6f40650ebaac6" category="doc">Cloud Manager のドキュメント</block>
-  <block id="7ff191df90fac0fa94ab5c2b5101a5e9" category="sidebar">Cloud Manager のすべてのドキュメント</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">リリースノート</block>
   <block id="8e5adb4723e04a1f9bf2ea7df2c5e684" category="sidebar">コネクタとアカウント</block>
-  <block id="6beccc67ff905f7da0b29dece26b0485" category="sidebar">Amazon Web Services の</block>
-  <block id="caea8340e2d186a540518d08602aa065" category="sidebar">自動化</block>
   <block id="a623a8d0366bf079411aa30be45b2d10" category="sidebar">コンピューティング</block>
-  <block id="981bffcb165038c7fa06d58ef1c4cdaf" category="sidebar">データガバナンス</block>
-  <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">データ保護</block>
-  <block id="4877a4fced94635d9abbb2464ddef37a" category="sidebar">ファイル共有</block>
-  <block id="30136395f01879792198317c11831ea4" category="sidebar">Kubernetes</block>
-  <block id="1668ca1bd914c1d847f23b491319ac91" category="sidebar">Microsoft Azure</block>
-  <block id="423e555c5ec3885f2bb5d9d2d6627f63" category="sidebar">監視</block>
-  <block id="56ef2682280ac110060b881925a87b80" category="sidebar">Google Cloud</block>
   <block id="30b77b282030e8985671bcc89e3e4d74" category="sidebar">セットアップと管理</block>
-  <block id="ebf83dc6f9abc581c0cbcf7c286c6bed" category="sidebar">Cloud Manager の使用を開始し、コネクタやアカウントなどを管理する方法について説明します。</block>
-  <block id="72f9d32a77debe2f3f6cfa4485880344" category="sidebar">Cloud Manager の新機能をご確認ください。</block>
-  <block id="dab2edf9eaac3950e92c281ce358af01" category="sidebar">Active IQ デジタルアドバイザ</block>
   <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">実用的な情報でストレージの健常性を最適化</block>
   <block id="18cf072964a583150dd247485ba75b92" category="sidebar">ONTAP 対応の Amazon FSX</block>
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">AWS が管理する標準サービスとして、 ONTAP の全機能を使用できます。</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">クラウドベースのリソースをプログラムで管理できます。</block>
   <block id="ca9106b8b82ff55b6fdce530ccb952a7" category="sidebar">AppTemplate （アプリケーションテンプレート）</block>
-  <block id="4d3fcb70d2abff3ff5e4d5fac2556a44" category="sidebar">Cloud Manager でアクションを自動化することで、プロビジョニングを高速化し、手動作業を排除できます。</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files の特長</block>
   <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">コアビジネスアプリケーション向けのハイパフォーマンスなファイルストレージサービス。</block>
   <block id="dad57e95fc9a5390302ad830888cbdb9" category="sidebar">クラウドバックアップ</block>
@@ -70,30 +47,20 @@
   <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">分散した従業員にリアルタイムのグローバルファイル共有を提供します。</block>
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes クラスタ</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">ハイブリッドクラウド内の Kubernetes クラスタの高度なデータ管理。</block>
-  <block id="cc39e0b89a2a92cf04dc87d6a61428d5" category="sidebar">Cloud Volumes ONTAP の健全性とパフォーマンスを把握できます。</block>
   <block id="d0f1687c68ee0f0d9bac765716d18923" category="sidebar">オンプレミスの ONTAP クラスタ</block>
   <block id="b7a3a3d6e3a875d91556459f1c471d33" category="sidebar">ハイブリッドクラウド全体にわたって NetApp AFF システムと FAS システムを管理できます。</block>
   <block id="950604af87c30e09716e6d097eb491db" category="sidebar">ランサムウェアからの保護</block>
   <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">サイバー攻撃に対するデータの復元力を評価します。</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">レプリケーション</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">バックアップとディザスタリカバリをサポートするために、ストレージシステム間でデータをレプリケートします。</block>
-  <block id="fed6fa1f1b675c268f8b78258e2545a7" category="sidebar">SnapCenter サービス</block>
-  <block id="f0f6cb7dbb43bbd1b2c2edeb9f51c21b" category="sidebar">クラウドでのアプリケーションと整合性のあるデータ保護</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">すべて</block>
-  <block id="05ccfbea6601dcca671775f24a6b14d3" category="sidebar">コードサンプル</block>
-  <block id="dc21b082b0947a93d387b8c7e8f89ee5" category="sidebar">データストレージ</block>
-  <block id="396928510e06818ef017921022cce2af" category="sidebar">データの階層化</block>
   <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">上記のセルフサポートオプションに加え、サポートを有効にしたあとで問題が発生した場合は、ネットアップサポートの担当者と相談して解決できます。</block>
   <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">サポートに登録する方法について説明します</block>
-  <block id="09651e14b46d7e8697d32de90d0deacb" category="paragraph">ケースの作成*機能を使用するには、まずCloud ManagerアカウントIDのシリアル番号（例960xxxx）にネットアップが付属 <block ref="3349e4b3d05f646f2f1421bee7c2ad26" category="inline-link-macro-rx"></block>。</block>
   <block id="383133cb6f7207b1c65c3ace94aa5e95" category="list-text">電話の相手と話したい場合は、「*お電話」をクリックしてください。netapp.comのページに移動し、電話番号が表示されます。</block>
   <block id="bf5bc6ab0f95f17f4e98c9d766b8c11d" category="list-text">[*ケースの作成*]をクリックして、ネットアップサポートスペシャリストのチケットを開きます。</block>
   <block id="b53e0a259f4a0c8e7da80d6c94e26c84" category="list-text">* NetApp Support Site アカウント*：サポートケースをオープンしたユーザーに関連付けられている該当のNSSアカウントを選択します。この担当者は、以下に記載する追加のEメールに加えて、ネットアップから連絡を受け取る主要担当者となります。</block>
-  <block id="ec65cc87efda54741062da1fce99ff76" category="paragraph">NSSアカウントが表示されない場合は、Cloud Managerのサポートセクションにある* NSS Management *タブに移動して追加できます。</block>
-  <block id="b3144caf7d928b7954447c757b3ed77b" category="list-text">*Service*:問題 が関連付けられているサービスを選択します。たとえば、サービス内のワークフローや機能を使用して、テクニカルサポートの問題 に固有のCloud Managerなどです。</block>
   <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*作業環境*：ストレージに該当する場合は、* Cloud Volumes ONTAP *または*オンプレミス*を選択し、関連する作業環境を選択します。</block>
-  <block id="1e38219c106fb9d07d173c027b8911c7" category="paragraph">作業環境のリストは、サービスの上部バナーで選択したCloud Managerアカウント、ワークスペース、コネクタの範囲内にあります。</block>
   <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*ケース優先度*：ケースの優先度を選択します。優先度は、[低]、[中]、[高]、[クリティカル]のいずれかになります。</block>
   <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">これらの優先度の詳細を確認するには、フィールド名の横にある情報アイコンの上にマウスポインタを合わせます。</block>
   <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*事象の説明 *：実行したエラーメッセージやトラブルシューティング手順など、問題の詳細な概要 を入力します。</block>
@@ -104,7 +71,6 @@
   <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">サポートケースの履歴を確認するには、[*設定]、[タイムライン*]の順にクリックして、[サポートケースの作成]という名前のアクションを探します。 右端のボタンをクリックすると、アクションを展開して詳細を表示できます。</block>
   <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">ケースを作成しようとすると、次のエラーメッセージが表示される場合があります。</block>
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"選択したサービスに対してケースを作成する権限がありません"</block>
-  <block id="148f13242c3e296dc276821cdc574921" category="paragraph">このエラーは、NSSアカウントとそれに関連付けられているレコードの会社が、Cloud Managerアカウントのシリアル番号（例960xxxx）または動作環境のシリアル番号。[ケースの作成]フォームの上部にあるNSSアカウントの一覧を確認して、適切な一致を見つけることができます。または、次のいずれかのオプションを使用してサポートを依頼することもできます。</block>
   <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">製品内のチャットを使用します</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
   <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">テクニカル以外のケースをに送信します<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
@@ -112,49 +78,34 @@
   <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">ハイブリッドマルチクラウド全体のデータを包括的に把握できるEシリーズシステムをご紹介します。</block>
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
   <block id="501e54577b674a9bc815f3f3bd429b90" category="sidebar">StorageGRID システムの検出と管理</block>
-  <block id="d1a9582568e79d0f7df77bf8db0c78c2" category="paragraph">ネットアップテクニカルサポートでサポートケースをオープンするには、NetApp Support Site （NSS）アカウントをCloud Managerに追加し、サポートに登録する必要があります。</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">サポート登録の概要</block>
   <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">サポート資格を有効にする登録には、次の2つの形式があります。</block>
-  <block id="e84e72c56ec69ee05b16bee368f2f4cb" category="list-text">Cloud ManagerアカウントIDサポートサブスクリプションを登録します（Cloud Managerのサポートリソースのページにある20桁の960xxxxxxxxxシリアル番号）。</block>
-  <block id="86d34aa6dedf863c0a4ff5e293c1ec79" category="paragraph">これは、Cloud Manager内のすべてのサービスの単一のサポートサブスクリプションIDとして機能します。Cloud Managerのアカウントレベルのサポートサブスクリプションがそれぞれ登録されている必要があります。</block>
   <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">クラウドプロバイダのマーケットプレイスでのサブスクリプションに関連付けられているCloud Volumes ONTAP のシリアル番号を登録している（909201xxxxxxxxのシリアル番号）。</block>
-  <block id="dbea8abd63832b9ce98fbfac8dbb8c15" category="paragraph">これらのシリアル番号は、一般にPAY_GOと呼ばれ、Cloud Volumes ONTAP の導入時にCloud Managerによって生成されます。</block>
-  <block id="a9e835b028baaab9d917fafc714e25a5" category="paragraph">両方のタイプのシリアル番号を登録することで、サポートチケットの発行、自動ケース生成、Active IQ などの機能を利用できます。</block>
   <block id="e5646198d2e01aab2cec9ef946f9c53a" category="list-text">既存のお客様またはパートナー</block>
   <block id="4e6af37fb81d50483d832d4de6e2b26a" category="inline-xref">NSSアカウントを追加する方法について説明します</block>
   <block id="1c91f3adc957364cb01d33e100ee1ea3" category="list-text">初めて導入する場合は</block>
-  <block id="bcce750f51c727121c6fa1fb7d2c91f8" category="paragraph">ネットアップ製品を初めてご利用になる場合は、ネットアップのサポート登録サイトで、Cloud Managerアカウントのシリアル番号の登録を1回だけ完了してください。この登録を完了して新しいNSSアカウントを作成したら、Cloud Managerのこのアカウントを使用して自動で登録することができます。</block>
-  <block id="f6c4c1e9625a13b1b4d06a8f53f2ccfd" category="section-title">Cloud ManagerにNSSアカウントを追加します</block>
-  <block id="0bfa39d13bc65474a81520ace129413d" category="paragraph">これらの操作を実行すると、Cloud ManagerはNSSアカウントを使用して、ライセンスのダウンロード、ソフトウェアアップグレードの検証、以降のサポートの登録などを実行できます。</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">次の点に注意してください。</block>
   <block id="0f0a0d646a020cf3a65ce82ada4cfb01" category="list-text">お客様レベルのアカウントである必要があります（ゲストや一時アカウントは使用できません）。</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">3つの水平ドットのアイコン</block>
   <block id="ff67299785d475e87002751aa6ab5eb8" category="list-text">ログインに成功すると、ネットアップはNSSのユーザ名を保存します。これはシステムで生成されたIDで、Eメールにマッピングされます。[*NSS Management*]ページで、から電子メールを表示できます <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> メニュー。</block>
   <block id="505da61efe6bebebbaf092da18f64613" category="list-text">ログイン認証情報トークンを更新する必要がある場合は、の[認証情報の更新*]オプションも使用できます <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> メニュー。このオプションを使用すると、再度ログインするように求められます。</block>
-  <block id="59dd2a274c2c6a3cc5b3dce08109019d" category="list-text">Support Registrationのページで、Cloud ManagerアカウントIDのシリアル番号を確認します。</block>
   <block id="ef5e63bb6b6827440a13cc2ec7e9cf56" category="paragraph"><block ref="ef5e63bb6b6827440a13cc2ec7e9cf56" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">ネットアップサポート登録サイト</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">に移動します<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> 「*ネットアップ登録のお客様ではありません*」を選択します。</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">必須フィールドに入力します（赤いアスタリスクのフィールド）。</block>
   <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">[*製品ライン*（Product Line *）]フィールドで、[* Cloud Manager *]を選択し、該当する課金プロバイダーを選択します。</block>
-  <block id="1192dec4cc2b923397748a651cef178f" category="list-text">前述の手順2からCloud Managerアカウントのシリアル番号をコピーし、セキュリティチェックを完了して、ネットアップのグローバルデータプライバシーポリシーを読み、確認します。</block>
   <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">この安全なトランザクションを完了するために、メールボックスに電子メールがすぐに送信されます。確認メールが数分で届かない場合は、必ずスパムフォルダを確認してください。</block>
   <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">Eメールからアクションを確認します。</block>
   <block id="201080500e946070a2e4873042507c77" category="paragraph">確認ではネットアップにリクエストが送信され、NetApp Support Site アカウントを作成することを推奨します。</block>
   <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">NetApp Support Site ユーザー登録フォーム</block>
   <block id="d61c9f72493817776f392db42ac446a2" category="list-text">適切なユーザレベルを選択してください。通常は*ネットアップのお客様/エンドユーザ*がこれに該当します。</block>
-  <block id="d6cb31c22f8f843a781cccec33157281" category="list-text">シリアル番号のフィールドには、上記のCloud Managerアカウントのシリアル番号（960xxxx）を必ずコピーしてください。これにより、アカウント処理が高速化されます。</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">このプロセスについては、ネットアップからご連絡ください。これは、新規ユーザ向けの1回限りのオンボーディング演習です。</block>
   <block id="98bc603dcb6d5a57d540b13b541fa41a" category="paragraph">登録方法は、新規のお客様か既存のお客様かパートナーかによって異なります。</block>
-  <block id="60791d56f45a3f9f1287510b65d323df" category="paragraph">ネットアップの既存のお客様またはパートナー様は、NetApp Support Site （NSS）SSOアカウントを使用して上記の登録を実行することができます。サポートダッシュボードには、Cloud Managerの* NSS Management *ページでNSSアカウントを追加することができます。NSSアカウントを追加すると、Cloud Managerで自動的にこれらのシリアル番号が登録されます。</block>
-  <block id="32e82838df6d3ab4de32d996ebbe98cd" category="paragraph"><block ref="27c44e31a17502f2e9a25a83f2f37696" category="inline-xref-macro-rx"></block>。</block>
   <block id="00fc9d0c515c69ea2c368521453d982e" category="inline-xref">ネットアップへの登録方法をご確認ください</block>
   <block id="97454ce87333f7ebd50ee38b8126fb39" category="paragraph"><block ref="37544f11913357c4e8c8a4ec607ae247" category="inline-xref-macro-rx"></block>。</block>
   <block id="ad56c7289bc13dcf4f78c285f7f03878" category="section-title">ネットアップに登録してください</block>
   <block id="f1bac79c2c71fbd93863b9fbd718094c" category="paragraph">ネットアップサポートへの登録方法は、NetApp Support Site （NSS）アカウントがあるかどうかによって異なります。</block>
   <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">NSSアカウントをお持ちの既存のお客様</block>
-  <block id="d4b6092976537c153c496a428098980c" category="paragraph">NSSアカウントをお持ちのネットアップのお客様は、Cloud Managerからサポートに登録するだけで済みます。</block>
-  <block id="c9d4df035d54072bb393bd27f6769cc7" category="list-text">NSSアカウントをCloud Managerに追加していない場合は、</block>
   <block id="819aff12752b7e6a1828e755c7664de7" category="list-text">[*リソース]ページで、[*サポートに登録*]をクリックします。</block>
   <block id="e8a3d9970b8fc1d92caaf33d9e116bd4" category="inline-image-macro">アカウントのシリアル番号と[サポートに登録]オプションを示すスクリーンショット</block>
   <block id="113f9cd7bac6f4faa6b8d58e3e099a8e" category="paragraph"><block ref="113f9cd7bac6f4faa6b8d58e3e099a8e" category="inline-image-macro-rx" type="image"></block></block>
@@ -163,8 +114,78 @@
   <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">を実行してNetApp Support Site アカウントを作成します<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">ネットアップのソリューションを初めて導入する場合は</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">ネットアップ製品を初めてご利用になり、NSSアカウントをお持ちでない場合は、以下の手順に従ってください。</block>
-  <block id="cc7175a084ebd6e004cb2c751c162569" category="paragraph">NetApp Support Site アカウントを作成したら、Cloud Managerに移動してこのNSSアカウントを追加して以降の登録を行うことができます。</block>
-  <block id="77bdda0b5be7d2725f2b5941d74db0e2" category="paragraph">サポートダッシュボードを使用すると、NetApp Support Site アカウントを追加して管理し、Cloud Managerで使用できます。</block>
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">お客様レベルのアカウントをお持ちの場合は、1つ以上のNSSアカウントを追加することもできます。</block>
-  <block id="4fde72c535fd0cd463dbeb49347cdfae" category="list-text">パートナーアカウントまたはリセラーアカウントをお持ちの場合は、1つ以上のNSSアカウントを追加できますが、お客様レベルのアカウントと一緒に追加することはできません。</block>
+  <block id="fd4eb119039df77c719a1f46167399a3" category="summary">Cloud ManagerがBlueXPになりました。BlueXPを使用すると、単一のコントロールプレーンからハイブリッドマルチクラウドデータを構築、保護、管理できます。</block>
+  <block id="a0d9a83eb0552b7cc89c8d441a15ede1" category="doc">NetApp BlueXPへようこそ</block>
+  <block id="d1fe59ef952debed99ffc7ccaaa00a70" category="paragraph">Cloud Managerの名称はBlueXPに変更されました。BlueXPを使用すると、単一のコントロールプレーンからハイブリッドマルチクラウドデータを構築、保護、管理できます。</block>
+  <block id="4860911c5c67c5e04987564884e8b85e" category="section-title">統合された管理エクスペリエンス</block>
+  <block id="c3eb39b445a75ad05505fe32c6f061df" category="paragraph">BlueXPを使用すると'すべてのストレージおよびデータ資産を1つのインタフェースから管理できます</block>
+  <block id="e2f4ed3372452716e062769cee896707" category="paragraph">BlueXPを使用して、クラウドストレージ（Cloud Volumes ONTAP やAzure NetApp Files など）の作成と管理、データサービス（クラウドバックアップやクラウドデータセンスなど）の使用、オンプレミスやエッジのストレージデバイスの制御を行うことができます。</block>
+  <block id="fc8ff23d0bf81d0f8427b5c75023f80e" category="inline-link">詳細については、BlueXPのWebサイトをご覧ください</block>
+  <block id="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="list-text"><block ref="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="inline-link-rx"></block></block>
+  <block id="61b173efd5c260fd3e3f446d9d4b37e7" category="inline-link">BlueXPの使用を開始しましょう</block>
+  <block id="790c95b0226a2581bfc7d45871227daf" category="list-text"><block ref="790c95b0226a2581bfc7d45871227daf" category="inline-link-rx"></block></block>
+  <block id="31f0834695d820dc381e57397e466d12" category="section-title">新しいナビゲーションメニュー</block>
+  <block id="fd1529b541f9947e3defd06b8efbfca3" category="paragraph">BlueXPのナビゲーションメニューでは、データサービスがカテゴリ別に整理され、機能に応じて名前が付けられています。たとえば、クラウドバックアップにアクセスするには、「*保護*」カテゴリに移動して「*バックアップとリカバリ*」を選択します。</block>
+  <block id="7cb04a79785e33be744a126127319a35" category="inline-image-macro">BlueXPのナビゲーションメニューのスクリーンショット。ストレージやヘルスなどのカテゴリを示しています。</block>
+  <block id="e3a2069a256a46b571b57fe46324f5c0" category="paragraph"><block ref="e3a2069a256a46b571b57fe46324f5c0" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="68d4f3d7366b4ea59a65f0c44540e368" category="section-title">新しい製品統合</block>
+  <block id="054332983ba253fe4573945dcdbc8109" category="list-text">EシリーズやStorageGRID など、オンプレミスのストレージシステムをさらに管理できるようになりました。</block>
+  <block id="008dd953f4aadef1cabe373c88ac29c1" category="list-text">これまでスタンドアロンサービスとしてしか利用できなかったデータサービスを、Digital Advisor（旧Active IQ ）などの個別のUIで使用できるようになりました。</block>
+  <block id="7a58e46486e93797ee672a65eac3170f" category="paragraph">*詳細はこちら*</block>
+  <block id="23c19e9851a45bd1a62c97b5c51e16ab" category="inline-link">Eシリーズストレージシステムを管理</block>
+  <block id="652eac6ffac6ea42cdd10bbba7bc6c0c" category="list-text"><block ref="652eac6ffac6ea42cdd10bbba7bc6c0c" category="inline-link-rx"></block></block>
+  <block id="280f0ea2e556e240b5f15b51047b45b8" category="inline-link">StorageGRID ストレージシステムを管理します</block>
+  <block id="d694b62f00b305ea3d15052a9af4e461" category="list-text"><block ref="d694b62f00b305ea3d15052a9af4e461" category="inline-link-rx"></block></block>
+  <block id="f3bb3ec21babd88d81e5f7aefe69cced" category="inline-link">Digital Advisorの統合について</block>
+  <block id="fd93e0ac3cede5691afd22e4d95042e3" category="list-text"><block ref="fd93e0ac3cede5691afd22e4d95042e3" category="inline-link-rx"></block></block>
+  <block id="8adbcfd0f4d060d9e017dc7374ce832e" category="summary">BlueXP（旧Cloud Manager）は、ITエキスパートとクラウドアーキテクトに、ハイブリッドマルチクラウド環境でデータを管理、監視、自動化するための一元的なコントロールプレーンを提供します。製品別のドキュメント領域を参照するか、上記の検索を使用してBlueXPドキュメント内の任意の場所にコンテンツを検索します。</block>
+  <block id="eeb8e055593f1709925a03e2ebb13265" category="doc">BlueXPのマニュアル</block>
+  <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">ネットアップでは、BlueXPとその クラウド サービス をさまざまな方法でサポートしています。ナレッジベース（ KB ）記事やコミュニティフォーラムなど、 24 時間 365 日利用可能な幅広いセルフサポートオプションをご用意しています。サポート登録には、 Web チケット処理によるリモートテクニカルサポートが含まれます。</block>
+  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">BlueXPナレッジベースで問題のトラブルシューティングに役立つ記事を検索します。</block>
+  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">BlueXPコミュニティに参加して、進行中のディスカッションをフォローしたり、新しいディスカッションを作成したりできます。</block>
+  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">現在表示しているBlueXPのマニュアル。</block>
+  <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">お客様のご意見をお考えください。フィードバックを送信して、BlueXPの改善に役立ててください。</block>
+  <block id="1012a287397c66025d7748edf06a36e2" category="paragraph">[ケースの作成]機能を使用するには、まず、BlueXPアカウントIDのシリアル番号(例960xxxx）にネットアップが付属 <block ref="3349e4b3d05f646f2f1421bee7c2ad26" category="inline-link-macro-rx"></block>。</block>
+  <block id="6254a4afeeb76765a127fe74d31c1b3d" category="list-text">BlueXPで、[ヘルプ]、[サポート]の順にクリックします。</block>
+  <block id="d950fb930d7f7e6bfdda1b91b4639a02" category="paragraph">NSSアカウントが表示されない場合は、BlueXPのサポートセクションにある*NSS Management*タブに移動して追加できます。</block>
+  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*Service*:問題 が関連付けられているサービスを選択します。たとえば、サービス内のワークフローまたは機能を備えたテクニカルサポート問題 に固有のBlueXPなどです。</block>
+  <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">作業環境のリストは、サービスの上部バナーで選択したBlueXPアカウント、ワークスペース、コネクタの範囲内にあります。</block>
+  <block id="fa6b601b2fb4e3e5c7b466ecb8bd70ac" category="paragraph">このエラーは、NSSアカウントとそれに関連付けられているレコードの会社が、BlueXPアカウントのシリアル番号(例960xxxx）または動作環境のシリアル番号。[ケースの作成]フォームの上部にあるNSSアカウントの一覧を確認して、適切な一致を見つけることができます。または、次のいずれかのオプションを使用してサポートを依頼することもできます。</block>
+  <block id="8bf30fadf784022b073adb9233678a71" category="paragraph">ネットアップテクニカルサポートでサポートケースをオープンするには、まずNetApp Support Site （NSS）アカウントをBlueXPに追加し、サポートに登録する必要があります。</block>
+  <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">BlueXPアカウントIDサポートサブスクリプションの登録(BlueXPの[サポートリソース]ページにある20桁の960xxxxxxxxxシリアル番号)。</block>
+  <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">これは、BlueXP内のすべてのサービスのシングルサポートサブスクリプションIDとして機能します。各BlueXPアカウントレベルのサポート契約が登録されている必要があります。</block>
+  <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">これらのシリアル番号は、通常PAY_GOシリアル番号と呼ばれ、Cloud Volumes ONTAP の導入時にBlueXPによって生成されます。</block>
+  <block id="9d4125dc88bb9db6eb4be939905761ce" category="paragraph">両方のタイプのシリアル番号を登録することで、サポートチケットのオープンやケースの自動生成などの機能を利用できます。</block>
+  <block id="76928f97884b4332b83c5be9b99d93d3" category="paragraph">ネットアップの既存のお客様またはパートナー様は、NetApp Support Site （NSS）SSOアカウントを使用して上記の登録を実行することができます。サポートダッシュボードでは、BlueXPには、NSSアカウントを追加できる*NSS Management*ページがあります。NSSアカウントを追加すると、これらのシリアル番号が自動的に登録されます。</block>
+  <block id="8d80298f51b7ff2da78e26e60195c7a3" category="paragraph"><block ref="cbec7c1a4a2acff5e84457dd449ac01d" category="inline-xref-macro-rx"></block>。</block>
+  <block id="679f2cae4657f177cc89458d49c97e5f" category="paragraph">ネットアップを初めてご利用になる場合は、ネットアップのサポート登録サイトで、BlueXPアカウントのシリアル番号の登録を1回だけ完了する必要があります。この登録を完了し、新しいNSSアカウントを作成したら、BlueXPでこのアカウントを使用して自動登録を行うことができます。</block>
+  <block id="a92ec860f505b318fd0f0eba6165d607" category="section-title">NSSアカウントをBlueXPに追加します</block>
+  <block id="f2575f6d19024f7288cf78d7dc5b3db9" category="paragraph">サポートダッシュボードを使用すると、NetApp Support Site アカウントを追加して管理し、BlueXPで使用できます。</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">パートナーアカウントまたはリセラーアカウントをお持ちの場合は、1つ以上のNSSアカウントを追加することはできますが、お客様レベルのアカウントと一緒に追加することはできません。</block>
+  <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">BlueXPコンソールの右上にある[ヘルプ]アイコンをクリックし、[*Support*]を選択します。</block>
+  <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">これらのアクションにより、BlueXPはライセンスのダウンロード、ソフトウェアのアップグレード検証、および将来のサポート登録などの目的でNSSアカウントを使用できます。</block>
+  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">NSSアカウントをお持ちのネットアップのお客様は、BlueXPからサポートに登録するだけで済みます。</block>
+  <block id="25b94e7b58140f12be91fa8fd935fa59" category="list-text">NSSアカウントをまだ追加していない場合は、BlueXPに追加します。</block>
+  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">必ず、上記のシリアル番号フィールドに使用されているBlueXPアカウントのシリアル番号(960xxxx)をコピーしてください。これにより、アカウント処理が高速化されます。</block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">サポート登録ページでアカウントIDのシリアル番号を確認します。</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">上記の手順2からアカウントのシリアル番号をコピーし、セキュリティチェックを完了して、ネットアップのグローバルデータプライバシーポリシーを確認します。</block>
+  <block id="cc8b0535948da368f832027c19b7f853" category="list-text">シリアル番号フィールドには、上記のアカウントのシリアル番号（960xxxx）を必ずコピーしてください。これにより、アカウント処理が高速化されます。</block>
+  <block id="1c0e45ef07d0dbc13ca2394d5e285fd7" category="paragraph">NetApp Support Site アカウントを作成したら、BlueXPに移動して、このNSSアカウントを追加して今後の登録を行うことができます。</block>
+  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">BlueXPのすべてのマニュアル</block>
+  <block id="5e2f5f3c24ae8c6ab3eca618826b0e23" category="sidebar">拡張子</block>
+  <block id="5a935787d6f091fc760443ab4c491465" category="sidebar">ガバナンス</block>
+  <block id="605669cab962bf944d99ce89cf9e58d9" category="sidebar">健常性</block>
+  <block id="f1c9e9af80bb533618f5bdefe333747d" category="sidebar">分析</block>
+  <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">モビリティ</block>
+  <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">保護</block>
+  <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">ストレージ</block>
+  <block id="acef5d51685932cc367c2b457797c936" category="sidebar">BlueXPへようこそ</block>
+  <block id="4d76faa1554725dd328ee6ba5b97a819" category="sidebar">BlueXPの概要について説明します。</block>
+  <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">BlueXPの使用を開始し、コネクタやアカウントなどを管理する方法について説明します。</block>
+  <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">BlueXPのすべての新機能について説明します。</block>
+  <block id="3de329d856b09fe94d05567c4761f82d" category="sidebar">Digital Advisor（旧称Active IQ ）</block>
+  <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">BlueXPのアクションを自動化して、プロビジョニングを高速化し、手動作業を排除します。</block>
+  <block id="b4f83b03956523a39e8bbbd0895f0f29" category="sidebar">Cloud Insights の機能です</block>
+  <block id="c50b91dc494c1ae78bb56ca7f5fb13a9" category="sidebar">クラウドワークロードのパフォーマンスと利用率を制御</block>
 </blocks>
