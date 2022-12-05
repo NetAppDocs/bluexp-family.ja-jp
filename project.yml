@@ -52,11 +52,6 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
     summary: BlueXPのすべての新機能について説明します。
     tags: all
-  - title: Digital Advisor（旧称Active IQ ）
-    icon: "./media/icon-activeiq.png"
-    url: https://docs.netapp.com/us-en/active-iq/index.html
-    tags: all, health
-    summary: 実用的な情報でストレージの健常性を最適化
   - title: ONTAP 対応の Amazon FSX
     icon: "./media/icon-fsx.png"
     url: https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/index.html
@@ -122,6 +117,11 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
     summary: クラウドコンピューティング関連の支出を可視化し、削減可能なコストを特定できます。
     tags: all, aws, extension
+  - title: Digital Advisor（旧称Active IQ ）
+    icon: "./media/icon-activeiq.png"
+    url: https://docs.netapp.com/us-en/active-iq/index.html
+    tags: all, health
+    summary: 実用的な情報でストレージの健常性を最適化
   - title: Eシリーズシステム
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
@@ -140,7 +140,7 @@ product-family:
   - title: オンプレミスの ONTAP クラスタ
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
-    summary: ハイブリッドクラウド全体にわたって NetApp AFF システムと FAS システムを管理できます。
+    summary: System ManagerとBlueXPのデータサービスを使用して、AFF システムとFAS システムをBlueXPから管理できます。
     tags: all, storage
   - title: ランサムウェアからの保護
     icon: "./media/icon-ransomware.png"
