@@ -40,12 +40,14 @@ image:screenshot-navigation-menu.png["BlueXPのナビゲーションメニュー
 
 == 新しい製品統合
 
+* コネクタがインストールされているAWSアカウントでAmazon S3バケットを管理できるようになりました。
 * EシリーズやStorageGRID など、オンプレミスのストレージシステムをさらに管理できるようになりました。
 * これまでスタンドアロンサービスとしてしか利用できなかったデータサービスを、Digital Advisor（旧Active IQ ）などの個別のUIで使用できるようになりました。
 
 
 *詳細はこちら*
 
+* https://docs.netapp.com/us-en/bluexp-s3-storage/index.html["Amazon S3バケットを管理する"^]
 * https://docs.netapp.com/us-en/cloud-manager-e-series/index.html["Eシリーズストレージシステムを管理"^]
 * https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html["StorageGRID ストレージシステムを管理します"^]
 * https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html["Digital Advisorの統合について"^]

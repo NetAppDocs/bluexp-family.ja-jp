@@ -231,4 +231,9 @@
   <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">これはシステムによって生成されたIDで、電子メールにマッピングされます。[*NSS Management*]ページで、から電子メールを表示できます <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> メニュー。</block>
   <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">ログイン認証情報トークンを更新する必要がある場合は、の[認証情報の更新*]オプションも使用できます <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> メニュー。</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">このオプションを使用すると、再度ログインするように求められます。これらのアカウントのトークンは90日後に期限切れになります。このことを通知する通知が投稿されます。</block>
+  <block id="cf6a3994dac804af910024cf740e14ac" category="list-text">コネクタがインストールされているAWSアカウントでAmazon S3バケットを管理できるようになりました。</block>
+  <block id="72098f7f145b12a125b92539edd37f4a" category="inline-link">Amazon S3バケットを管理する</block>
+  <block id="8a4a49cb4536baac7f58e0eb6e2dac29" category="list-text"><block ref="8a4a49cb4536baac7f58e0eb6e2dac29" category="inline-link-rx"></block></block>
+  <block id="d79294e72dc3584cc12c98a7a931315d" category="sidebar">Amazon S3ストレージ</block>
+  <block id="4b271c8c28b8ccb8e638e54186acac01" category="sidebar">AWSアカウント内のAmazon S3バケットを検出して管理します。</block>
 </blocks>
