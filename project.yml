@@ -132,6 +132,11 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
     summary: ハイブリッドマルチクラウド全体のデータを包括的に把握できるEシリーズシステムをご紹介します。
     tags: all, storage
+  - title: 経済効率
+    icon: "./media/icon-economic-efficiency.png"
+    url: https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html
+    summary: 現在または予測されている低容量のクラスタを特定し、データ階層化または容量追加の推奨事項を実装します。
+    tags: all, governance
   - title: グローバルファイルキャッシュ
     icon: "./media/icon-cache.png"
     url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
@@ -147,11 +152,16 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
     summary: System ManagerとBlueXPのデータサービスを使用して、AFF システムとFAS システムをBlueXPから管理できます。
     tags: all, storage
+  - title: 運用の耐障害性
+    icon: "./media/icon-op-resiliency.png"
+    url: https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html
+    summary: ファームウェアとソフトウェア設定のリスクを自動で修正し、ONTAP クラスタの健全性を維持
+    tags: all, health
   - title: ランサムウェアからの保護
     icon: "./media/icon-ransomware.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ransomware/index.html
     summary: サイバー攻撃に対するデータの復元力を評価します。
-    tags: all, protection
+    tags: all, governance
   - title: レプリケーション
     icon: "./media/icon-replication.png"
     url: https://docs.netapp.com/us-en/cloud-manager-replication/index.html
