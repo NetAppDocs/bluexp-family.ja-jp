@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: concept-overview.html 
 keywords: overview, bluexp, integration, cloud manager, digital advisor, active iq, menu 
-summary: Cloud ManagerがBlueXPになりました。BlueXPを使用すると、単一のコントロールプレーンからハイブリッドマルチクラウドデータを構築、保護、管理できます。 
+summary: NetApp BlueXPは、Cloud Managerを進化させたものです。BlueXPは、オンプレミス環境とクラウド環境のストレージとデータサービスにハイブリッドマルチクラウド環境を提供する統合コントロールプレーンです。 
 ---
 = NetApp BlueXPへようこそ
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Cloud ManagerがBlueXPになりました。BlueXPを使用すると、�
 
 
 [role="lead"]
-Cloud Managerの名称はBlueXPに変更されました。BlueXPを使用すると、単一のコントロールプレーンからハイブリッドマルチクラウドデータを構築、保護、管理できます。
+NetApp BlueXPは、Cloud Managerを進化させたものです。BlueXPは、オンプレミス環境とクラウド環境のストレージとデータサービスにハイブリッドマルチクラウド環境を提供する統合コントロールプレーンです。
 
 
 
