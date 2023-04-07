@@ -15,7 +15,6 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">リリースノート</block>
   <block id="8e5adb4723e04a1f9bf2ea7df2c5e684" category="sidebar">コネクタとアカウント</block>
   <block id="a623a8d0366bf079411aa30be45b2d10" category="sidebar">コンピューティング</block>
-  <block id="30b77b282030e8985671bcc89e3e4d74" category="sidebar">セットアップと管理</block>
   <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">実用的な情報でストレージの健常性を最適化</block>
   <block id="18cf072964a583150dd247485ba75b92" category="sidebar">ONTAP 対応の Amazon FSX</block>
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">AWS が管理する標準サービスとして、 ONTAP の全機能を使用できます。</block>
@@ -241,4 +240,5 @@
   <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXPは、Cloud Managerを進化させたものです。BlueXPは、オンプレミス環境とクラウド環境のストレージとデータサービスにハイブリッドマルチクラウド環境を提供する統合コントロールプレーンです。</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">オンプレミスの ONTAP クラスタ</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">セットアップと管理</block>
 </blocks>
