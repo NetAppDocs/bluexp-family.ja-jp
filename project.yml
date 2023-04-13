@@ -127,6 +127,11 @@ product-family:
     url: https://docs.netapp.com/us-en/active-iq/index.html
     tags: all, health
     summary: 実用的な情報でストレージの健常性を最適化
+  - title: デジタルウォレット
+    icon: "./media/digital-wallet.png"
+    url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
+    tags: all, governance
+    summary: ライセンスとサブスクリプションを管理および監視します。
   - title: Eシリーズシステム
     icon: "./media/icon-e-series.png"
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
