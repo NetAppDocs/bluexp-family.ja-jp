@@ -14,22 +14,16 @@
   <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">mailto ： ng-cloudmanager-feedback@netapp.com [ フィードバックメール ]</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">リリースノート</block>
   <block id="8e5adb4723e04a1f9bf2ea7df2c5e684" category="sidebar">コネクタとアカウント</block>
-  <block id="a623a8d0366bf079411aa30be45b2d10" category="sidebar">コンピューティング</block>
   <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">実用的な情報でストレージの健常性を最適化</block>
   <block id="18cf072964a583150dd247485ba75b92" category="sidebar">ONTAP 対応の Amazon FSX</block>
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">AWS が管理する標準サービスとして、 ONTAP の全機能を使用できます。</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">クラウドベースのリソースをプログラムで管理できます。</block>
-  <block id="ca9106b8b82ff55b6fdce530ccb952a7" category="sidebar">AppTemplate （アプリケーションテンプレート）</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files の特長</block>
   <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">コアビジネスアプリケーション向けのハイパフォーマンスなファイルストレージサービス。</block>
-  <block id="dad57e95fc9a5390302ad830888cbdb9" category="sidebar">クラウドバックアップ</block>
   <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">クラウドとオンプレミスのデータをバックアップ、リストア</block>
-  <block id="d882bf73cd5caf1e5aa39edbf893ad74" category="sidebar">クラウドデータの意味</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">アプリケーションデータとクラウド環境のプライバシーを確保</block>
-  <block id="e367efbc26bd12c0d6ae37dd6a55ef9b" category="sidebar">Cloud Sync</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">オンプレミスとクラウドのデータストア間でデータを同期</block>
-  <block id="92d2b6aba6afa3f690540cf3dba9b633" category="sidebar">クラウド階層化</block>
   <block id="c6844dc3fe4e51f03d9c9209b1f58fc4" category="sidebar">オンプレミスの ONTAP ストレージをクラウドに拡張</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">クラウドストレージを低コストでインテリジェントに、コンプライアンスに準拠し、セキュアに構築できます。</block>
@@ -38,11 +32,9 @@
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="sidebar">Cloud Volumes Service for Google Cloud</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">ファイルストレージをセキュアに、保護、高速化します。</block>
   <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">クラウドコンピューティング関連の支出を可視化し、削減可能なコストを特定できます。</block>
-  <block id="24e6e2f6171b43a847fe194a9a9b5cd0" category="sidebar">グローバルファイルキャッシュ</block>
   <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">分散した従業員にリアルタイムのグローバルファイル共有を提供します。</block>
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes クラスタ</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">ハイブリッドクラウド内の Kubernetes クラスタの高度なデータ管理。</block>
-  <block id="950604af87c30e09716e6d097eb491db" category="sidebar">ランサムウェアからの保護</block>
   <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">サイバー攻撃に対するデータの復元力を評価します。</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">レプリケーション</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">バックアップとディザスタリカバリをサポートするために、ストレージシステム間でデータをレプリケートします。</block>
@@ -170,10 +162,7 @@
   <block id="4d76faa1554725dd328ee6ba5b97a819" category="sidebar">BlueXPの概要について説明します。</block>
   <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">BlueXPの使用を開始し、コネクタやアカウントなどを管理する方法について説明します。</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">BlueXPのすべての新機能について説明します。</block>
-  <block id="3de329d856b09fe94d05567c4761f82d" category="sidebar">Digital Advisor（旧称Active IQ ）</block>
   <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">BlueXPのアクションを自動化して、プロビジョニングを高速化し、手動作業を排除します。</block>
-  <block id="b4f83b03956523a39e8bbbd0895f0f29" category="sidebar">Cloud Insights の機能です</block>
-  <block id="c50b91dc494c1ae78bb56ca7f5fb13a9" category="sidebar">クラウドワークロードのパフォーマンスと利用率を制御</block>
   <block id="19874606c485ce682436c45308e50186" category="sidebar">System ManagerとBlueXPのデータサービスを使用して、AFF システムとFAS システムをBlueXPから管理できます。</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">始める前に</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完了後</block>
@@ -236,11 +225,21 @@
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">現在または予測されている低容量のクラスタを特定し、データ階層化または容量追加の推奨事項を実装します。</block>
   <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">運用の耐障害性</block>
   <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">ファームウェアとソフトウェア設定のリスクを自動で修正し、ONTAP クラスタの健全性を維持</block>
-  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXPは、オンプレミス環境とクラウド環境にわたってデータを構築、保護、ガバナンスするための単一のコントロールプレーンです。製品別のドキュメント領域を参照するか、上記の検索を使用してBlueXPドキュメント内の任意の場所にコンテンツを検索します。</block>
   <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXPは、Cloud Managerを進化させたものです。BlueXPは、オンプレミス環境とクラウド環境のストレージとデータサービスにハイブリッドマルチクラウド環境を提供する統合コントロールプレーンです。</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">オンプレミスの ONTAP クラスタ</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">セットアップと管理</block>
-  <block id="986e1f3279b4d74444bd32d4f833afbd" category="sidebar">デジタルウォレット</block>
   <block id="5928ade999566a2ca0d839d3c191b3f1" category="sidebar">ライセンスとサブスクリプションを管理および監視します。</block>
+  <block id="bd4152637ad88c0eb060a24cddfba1f9" category="summary">NetApp BlueXP（Cloud Manager）は、オンプレミス環境とクラウド環境にわたってデータを構築、保護、ガバナンスするための単一のコントロールプレーンです。製品別のドキュメント領域を参照するか、上記の検索を使用してBlueXPドキュメント内の任意の場所にコンテンツを検索します。</block>
+  <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">NetApp ONTAP 対応の Amazon FSX</block>
+  <block id="1220376b19b37830a4bf0ca859f13117" category="sidebar">バックアップとリカバリ（Cloud Backup）</block>
+  <block id="ab3c79949a956f4792a7697fdb989ee5" category="sidebar">分類（Cloud Data Sense）</block>
+  <block id="050e5016f7040ceedbd80731cdf796db" category="sidebar">クラウド運用（コンピューティング）</block>
+  <block id="2b09a63dc379266e4ddebf30644e5566" category="sidebar">コピーと同期（Cloud Sync ）</block>
+  <block id="457d79994b70adbf238bafd0fea18cb2" category="sidebar">デジタルアドバイザ（Active IQ ）</block>
+  <block id="2049421a4e8e45e83cd7cf18ffc00a12" category="sidebar">デジタルウォレット</block>
+  <block id="283a34872fecedd9a307e184eaf214e5" category="sidebar">エッジキャッシング（Global File Cache）</block>
+  <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">ランサムウェアからの保護</block>
+  <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">修正（AppTemplate）</block>
+  <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">階層化（Cloud Tiering）</block>
 </blocks>

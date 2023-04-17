@@ -52,7 +52,7 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
     summary: BlueXPのすべての新機能について説明します。
     tags: all
-  - title: ONTAP 対応の Amazon FSX
+  - title: NetApp ONTAP 対応の Amazon FSX
     icon: "./media/icon-fsx.png"
     url: https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/index.html
     summary: AWS が管理する標準サービスとして、 ONTAP の全機能を使用できます。
@@ -67,41 +67,26 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-automation/index.html
     summary: クラウドベースのリソースをプログラムで管理できます。
     tags: all, api
-  - title: AppTemplate （アプリケーションテンプレート）
-    icon: "./media/icon-app-template.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
-    summary: BlueXPのアクションを自動化して、プロビジョニングを高速化し、手動作業を排除します。
-    tags: all, health
   - title: Azure NetApp Files の特長
     icon: "./media/icon-anf.png"
     url: https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/index.html
     summary: コアビジネスアプリケーション向けのハイパフォーマンスなファイルストレージサービス。
     tags: all, storage, azure
-  - title: クラウドバックアップ
+  - title: バックアップとリカバリ（Cloud Backup）
     icon: "./media/icon-backup.png"
     url: https://docs.netapp.com/us-en/cloud-manager-backup-restore/index.html
     summary: クラウドとオンプレミスのデータをバックアップ、リストア
     tags: all, aws, azure, gcp, protection
-  - title: クラウドデータの意味
+  - title: 分類（Cloud Data Sense）
     icon: "./media/icon-data-sense.png"
     url: https://docs.netapp.com/us-en/cloud-manager-data-sense/index.html
     summary: アプリケーションデータとクラウド環境のプライバシーを確保
     tags: all, governance, aws, azure, gcp
-  - title: Cloud Insights の機能です
-    icon: "./media/icon-monitoring.png"
-    url: https://docs.netapp.com/us-en/cloudinsights/
-    summary: クラウドワークロードのパフォーマンスと利用率を制御
-    tags: all, insights
-  - title: Cloud Sync
-    icon: "./media/icon-sync.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
-    summary: オンプレミスとクラウドのデータストア間でデータを同期
-    tags: all, aws, azure, gcp, mobility
-  - title: クラウド階層化
-    icon: "./media/icon-tiering.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
-    summary: オンプレミスの ONTAP ストレージをクラウドに拡張
-    tags: all, aws, azure, gcp, mobility
+  - title: クラウド運用（コンピューティング）
+    icon: "./media/icon-compute.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
+    summary: クラウドコンピューティング関連の支出を可視化し、削減可能なコストを特定できます。
+    tags: all, aws, extension
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
@@ -117,12 +102,12 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/index.html
     summary: ファイルストレージをセキュアに、保護、高速化します。
     tags: all, storage, gcp
-  - title: コンピューティング
-    icon: "./media/icon-compute.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
-    summary: クラウドコンピューティング関連の支出を可視化し、削減可能なコストを特定できます。
-    tags: all, aws, extension
-  - title: Digital Advisor（旧称Active IQ ）
+  - title: コピーと同期（Cloud Sync ）
+    icon: "./media/icon-sync.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
+    summary: オンプレミスとクラウドのデータストア間でデータを同期
+    tags: all, aws, azure, gcp, mobility
+  - title: デジタルアドバイザ（Active IQ ）
     icon: "./media/icon-activeiq.png"
     url: https://docs.netapp.com/us-en/active-iq/index.html
     tags: all, health
@@ -142,7 +127,7 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html
     summary: 現在または予測されている低容量のクラスタを特定し、データ階層化または容量追加の推奨事項を実装します。
     tags: all, governance
-  - title: グローバルファイルキャッシュ
+  - title: エッジキャッシング（Global File Cache）
     icon: "./media/icon-cache.png"
     url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
     summary: 分散した従業員にリアルタイムのグローバルファイル共有を提供します。
@@ -166,7 +151,12 @@ product-family:
     icon: "./media/icon-ransomware.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ransomware/index.html
     summary: サイバー攻撃に対するデータの復元力を評価します。
-    tags: all, governance
+    tags: all, protection
+  - title: 修正（AppTemplate）
+    icon: "./media/icon-app-template.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
+    summary: BlueXPのアクションを自動化して、プロビジョニングを高速化し、手動作業を排除します。
+    tags: all, health
   - title: レプリケーション
     icon: "./media/icon-replication.png"
     url: https://docs.netapp.com/us-en/cloud-manager-replication/index.html
@@ -177,3 +167,8 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html
     summary: StorageGRID システムの検出と管理
     tags: all, storage
+  - title: 階層化（Cloud Tiering）
+    icon: "./media/icon-tiering.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
+    summary: オンプレミスの ONTAP ストレージをクラウドに拡張
+    tags: all, aws, azure, gcp, mobility
