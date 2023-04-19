@@ -22,7 +22,7 @@ NetApp BlueXPは、Cloud Managerを進化させたものです。BlueXPは、オ
 
 BlueXPを使用すると'すべてのストレージおよびデータ資産を1つのインタフェースから管理できます
 
-BlueXPを使用して、クラウドストレージ（Cloud Volumes ONTAP やAzure NetApp Files など）の作成と管理、データサービス（クラウドバックアップやクラウドデータセンスなど）の使用、オンプレミスやエッジのストレージデバイスの制御を行うことができます。
+BlueXPを使用して、クラウドストレージ（Cloud Volumes ONTAP やAzure NetApp Files など）の作成と管理、データの移動、保護、分析、オンプレミスやエッジの多くのストレージデバイスの管理を行うことができます。
 
 * https://cloud.netapp.com["詳細については、BlueXPのWebサイトをご覧ください"^]
 * https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["BlueXPの使用を開始しましょう"^]
@@ -32,7 +32,7 @@ BlueXPを使用して、クラウドストレージ（Cloud Volumes ONTAP やAzu
 
 == 新しいナビゲーションメニュー
 
-BlueXPのナビゲーションメニューでは、データサービスがカテゴリ別に整理され、機能に応じて名前が付けられています。たとえば、クラウドバックアップにアクセスするには、「*保護*」カテゴリに移動して「*バックアップとリカバリ*」を選択します。
+BlueXPのナビゲーションメニューでは、サービスがカテゴリ別に分類され、機能に応じてサービスの名前が付けられます。たとえば、BlueXPのバックアップとリカバリ（Cloud Backup）には* Protection *カテゴリからアクセスできます。
 
 image:screenshot-navigation-menu.png["BlueXPのナビゲーションメニューのスクリーンショット。ストレージやヘルスなどのカテゴリを示しています。"]
 
@@ -42,7 +42,7 @@ image:screenshot-navigation-menu.png["BlueXPのナビゲーションメニュー
 
 * コネクタがインストールされているAWSアカウントでAmazon S3バケットを管理できるようになりました。
 * EシリーズやStorageGRID など、オンプレミスのストレージシステムをさらに管理できるようになりました。
-* これまでスタンドアロンサービスとしてしか利用できなかったデータサービスを、Digital Advisor（旧Active IQ ）などの個別のUIで使用できるようになりました。
+* これまでスタンドアロンサービスとしてしか提供されていなかったデータサービスを、別のUIで使用できるようになりました。たとえば、BlueXP Digital Advisor（Active IQ ）などです。
 
 
 *詳細はこちら*
