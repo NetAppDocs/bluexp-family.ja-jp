@@ -239,7 +239,7 @@
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">ランサムウェアからの保護</block>
   <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">修正（AppTemplate）</block>
   <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">階層化（Cloud Tiering）</block>
-  <block id="9d881c2e8fdc167a489e069a47255ba9" category="paragraph">BlueXPを使用して、クラウドストレージ（Cloud Volumes ONTAP やAzure NetApp Files など）の作成と管理、データの移動、保護、分析、オンプレミスやエッジの多くのストレージデバイスの管理を行うことができます。</block>
   <block id="75d46f12940616f043309dfb109d814d" category="paragraph">BlueXPのナビゲーションメニューでは、サービスがカテゴリ別に分類され、機能に応じてサービスの名前が付けられます。たとえば、BlueXPのバックアップとリカバリ（Cloud Backup）には* Protection *カテゴリからアクセスできます。</block>
   <block id="bcaa38b35b3f595027217ec10755368a" category="list-text">これまでスタンドアロンサービスとしてしか提供されていなかったデータサービスを、別のUIで使用できるようになりました。たとえば、BlueXP Digital Advisor（Active IQ ）などです。</block>
+  <block id="a28e6578744ceeb545878235d414e497" category="paragraph">BlueXPを使用して、クラウドストレージ（Cloud Volumes ONTAP やAzure NetApp Files など）の作成と管理、データの移動、保護、分析、オンプレミスやエッジの多くのストレージデバイスの管理を行うことができます。</block>
 </blocks>
