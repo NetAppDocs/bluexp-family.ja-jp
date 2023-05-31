@@ -25,7 +25,7 @@ BlueXPを使用すると'すべてのストレージおよびデータ資産を1
 BlueXPを使用して、クラウドストレージ（Cloud Volumes ONTAP やAzure NetApp Files など）の作成と管理、データの移動、保護、分析、オンプレミスやエッジの多くのストレージデバイスの管理を行うことができます。
 
 * https://cloud.netapp.com["詳細については、BlueXPのWebサイトをご覧ください"^]
-* https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["BlueXPの使用を開始しましょう"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/index.html["BlueXPの使用を開始しましょう"^]
 
 
 
@@ -48,7 +48,7 @@ image:screenshot-navigation-menu.png["BlueXPのナビゲーションメニュー
 *詳細はこちら*
 
 * https://docs.netapp.com/us-en/bluexp-s3-storage/index.html["Amazon S3バケットを管理する"^]
-* https://docs.netapp.com/us-en/cloud-manager-e-series/index.html["Eシリーズストレージシステムを管理"^]
-* https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html["StorageGRID ストレージシステムを管理します"^]
+* https://docs.netapp.com/us-en/bluexp-e-series/index.html["Eシリーズストレージシステムを管理"^]
+* https://docs.netapp.com/us-en/bluexp-storagegrid/index.html["StorageGRID ストレージシステムを管理します"^]
 * https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html["Digital Advisorの統合について"^]
 
