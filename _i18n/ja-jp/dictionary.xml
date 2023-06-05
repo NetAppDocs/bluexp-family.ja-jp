@@ -245,4 +245,6 @@
   <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">ストレージ環境のファイル数、ファイルシステムツリーの深さと幅、大容量ファイルなどを特定します。</block>
   <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">ボリュームキャッシュ</block>
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">書き込み可能なキャッシュボリュームを作成して、データへのアクセスを高速化したり、アクセス頻度の高いボリュームのトラフィックをオフロードしたりします。</block>
+  <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Azure BLOBストレージ</block>
+  <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">AzureサブスクリプションでAzure BLOBストレージを検出および管理します。</block>
 </blocks>
