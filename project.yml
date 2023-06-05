@@ -170,3 +170,8 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
     summary: オンプレミスの ONTAP ストレージをクラウドに拡張
     tags: all,aws,azure,gcp,mobility
+  - title: ボリュームキャッシュ
+    icon: "./media/icon-docs.png"
+    url: https://docs.netapp.com/us-en/bluexp-volume-caching/index.html
+    summary: 書き込み可能なキャッシュボリュームを作成して、データへのアクセスを高速化したり、アクセス頻度の高いボリュームのトラフィックをオフロードしたりします。
+    tags: all,mobility
