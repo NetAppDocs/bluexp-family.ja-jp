@@ -130,6 +130,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
     summary: ハイブリッドクラウド内の Kubernetes クラスタの高度なデータ管理。
     tags: all,storage,aws,azure
+  - title: 移行レポート
+    icon: "./media/icon-reports.png"
+    url: https://docs.netapp.com/us-en/bluexp-reports/index.html
+    summary: ストレージ環境のファイル数、ファイルシステムツリーの深さと幅、大容量ファイルなどを特定します。
+    tags: all,storage
   - title: オンプレミスの ONTAP クラスタ
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html
