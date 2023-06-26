@@ -174,7 +174,7 @@ product-family:
     icon: "./media/icon-sustainability.png"
     url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
     summary: ストレージシステムの持続可能性を分析します。
-    tags: all,health
+    tags: all,governance
   - title: 階層化（Cloud Tiering）
     icon: "./media/icon-tiering.png"
     url: https://docs.netapp.com/us-en/bluexp-tiering/index.html

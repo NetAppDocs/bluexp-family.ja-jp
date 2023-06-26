@@ -248,5 +248,5 @@
   <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Azure BLOBストレージ</block>
   <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">AzureサブスクリプションでAzure BLOBストレージを検出および管理します。</block>
   <block id="072d1a387472fb47fdfa33e48ff08ffd" category="sidebar">Sustainability Dashboard</block>
-  <block id="bc955e300c1eb565285b1d3030f79321" category="sidebar">ストレージシステムの持続可能性を分析します。</block>
+  <block id="b6ec628f73e9b33a6ae94b2c3ef2879b" category="sidebar">ストレージシステムの持続可能性を分析します。</block>
 </blocks>
