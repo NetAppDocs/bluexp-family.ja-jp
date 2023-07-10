@@ -249,4 +249,6 @@
   <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">AzureサブスクリプションでAzure BLOBストレージを検出および管理します。</block>
   <block id="072d1a387472fb47fdfa33e48ff08ffd" category="sidebar">Sustainability Dashboard</block>
   <block id="b6ec628f73e9b33a6ae94b2c3ef2879b" category="sidebar">ストレージシステムの持続可能性を分析します。</block>
+  <block id="833c2c211a541e50ad94433664e4b5c1" category="sidebar">Google クラウドストレージ</block>
+  <block id="195aba5a6e7c41123fc8903b34a99aeb" category="sidebar">GoogleアカウントでCloud Storageバケットを検出して管理します。</block>
 </blocks>

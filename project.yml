@@ -131,6 +131,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-edge-caching/index.html
     summary: 分散した従業員にリアルタイムのグローバルファイル共有を提供します。
     tags: all,mobility,aws,azure,gcp
+  - title: Google クラウドストレージ
+    icon: "./media/icon-google-cloud-storage.png"
+    url: https://docs.netapp.com/us-en/bluexp-google-cloud-storage/index.html
+    summary: GoogleアカウントでCloud Storageバケットを検出して管理します。
+    tags: all,storage
   - title: Kubernetes クラスタ
     icon: "./media/icon-kubernetes.png"
     url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
