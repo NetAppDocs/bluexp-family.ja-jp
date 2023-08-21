@@ -116,6 +116,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
     tags: all,governance
     summary: ライセンスとサブスクリプションを管理および監視します。
+  - title: ディザスタリカバリ
+    icon: "./media/icon-disaster-recovery.png"
+    url: https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html
+    tags: all, protection
+    summary: ディザスタリカバリサイトとしてVMware Cloud on Amazon FSx for ONTAPを使用して、オンプレミスのVMwareワークロードを保護します。
   - title: Eシリーズシステム
     icon: "./media/icon-e-series.png"
     url: https://docs.netapp.com/us-en/bluexp-e-series/index.html
