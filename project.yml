@@ -183,7 +183,7 @@ product-family:
     tags: all,storage
   - title: Sustainability Dashboard
     icon: "./media/icon-sustainability.png"
-    url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
+    url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
     summary: ストレージシステムの持続可能性を分析します。
     tags: all,governance
   - title: 階層化（Cloud Tiering）
