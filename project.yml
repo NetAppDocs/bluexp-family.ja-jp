@@ -66,6 +66,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-automation/index.html
     summary: クラウドベースのリソースをプログラムで管理できます。
     tags: all,api
+  - title: 自動化カタログ
+    icon: "./media/icon-api.png"
+    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
+    summary: スクリプト化されたソリューションを使用して、NetApp製品とサービスの導入と統合を自動化できます。
+    tags: all,governance
   - title: Azure BLOBストレージ
     icon: "./media/icon-azure-blob.png"
     url: https://docs.netapp.com/us-en/bluexp-blob-storage/index.html
