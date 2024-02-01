@@ -37,11 +37,6 @@ product-family:
   - title: ストレージ
     tags: storage
   tiles:
-  - title: BlueXPへようこそ
-    icon: "./media/icon-docs.png"
-    url: concept-overview.html
-    summary: BlueXPの概要について説明します。
-    tags: all
   - title: セットアップと管理
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
@@ -82,17 +77,17 @@ product-family:
     url: "../bluexp-azure-netapp-files/index.html"
     summary: コアビジネスアプリケーション向けのハイパフォーマンスなファイルストレージサービス。
     tags: all,storage,azure
-  - title: バックアップとリカバリ（Cloud Backup）
+  - title: バックアップとリカバリ
     icon: "./media/icon-backup.png"
     url: "../bluexp-backup-recovery/index.html"
     summary: クラウドとオンプレミスのデータをバックアップ、リストア
     tags: all,aws,azure,gcp,protection
-  - title: 分類（Cloud Data Sense）
+  - title: 分類
     icon: "./media/icon-data-sense.png"
     url: "../bluexp-classification/index.html"
     summary: アプリケーションデータとクラウド環境のプライバシーを確保
     tags: all,governance,aws,azure,gcp
-  - title: クラウド運用（コンピューティング）
+  - title: クラウド運用
     icon: "./media/icon-compute.png"
     url: "../bluexp-cloud-ops/index.html"
     summary: クラウドコンピューティング関連の支出を可視化し、削減可能なコストを特定できます。
@@ -107,7 +102,7 @@ product-family:
     url: "../bluexp-cloud-volumes-service-gcp/index.html"
     summary: ファイルストレージをセキュアに、保護、高速化します。
     tags: all,storage,gcp
-  - title: コピーと同期（Cloud Sync ）
+  - title: コピーと同期
     icon: "./media/icon-sync.png"
     url: "../bluexp-copy-sync/index.html"
     summary: オンプレミスとクラウドのデータストア間でデータを同期
@@ -137,7 +132,7 @@ product-family:
     url: "../bluexp-economic-efficiency/index.html"
     summary: 現在または予測されている低容量のクラスタを特定し、データ階層化または容量追加の推奨事項を実装します。
     tags: all,governance
-  - title: エッジキャッシング（Global File Cache）
+  - title: エッジキャッシュ
     icon: "./media/icon-cache.png"
     url: "../bluexp-edge-caching/index.html"
     summary: 分散した従業員にリアルタイムのグローバルファイル共有を提供します。
@@ -167,7 +162,7 @@ product-family:
     url: "../bluexp-operational-resiliency/index.html"
     summary: ファームウェアとソフトウェア設定のリスクを自動で修正し、ONTAP クラスタの健全性を維持
     tags: all,health
-  - title: 修正（AppTemplate）
+  - title: 修正
     icon: "./media/icon-app-template.png"
     url: "../bluexp-remediation/index.html"
     summary: BlueXPのアクションを自動化して、プロビジョニングを高速化し、手動作業を排除します。
@@ -187,7 +182,7 @@ product-family:
     url: "../active-iq/learn_BlueXP_sustainability.html"
     summary: ストレージシステムの持続可能性を分析します。
     tags: all,governance
-  - title: 階層化（Cloud Tiering）
+  - title: 階層化
     icon: "./media/icon-tiering.png"
     url: "../bluexp-tiering/index.html"
     summary: オンプレミスの ONTAP ストレージをクラウドに拡張
