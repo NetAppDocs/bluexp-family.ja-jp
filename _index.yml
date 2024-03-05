@@ -149,6 +149,11 @@ product-family:
     url: "../bluexp-operational-resiliency/index.html"
     summary: ファームウェアとソフトウェア設定のリスクを自動で修正し、ONTAP クラスタの健全性を維持
     tags: all,health
+  - title: ランサムウェアからの保護
+    icon: "./media/icon-ransomware.png"
+    url: "../bluexp-ransomware-protection/index.html"
+    summary: ランサムウェア攻撃につながる可能性のある異常を検出ワークロードの保護とリカバリ
+    tags: all,protection
   - title: 修正
     icon: "./media/icon-app-template.png"
     url: "../bluexp-remediation/index.html"
