@@ -119,25 +119,10 @@ product-family:
     url: "../bluexp-economic-efficiency/index.html"
     summary: 現在または予測されている低容量のクラスタを特定し、データ階層化または容量追加の推奨事項を実装します。
     tags: all,governance
-  - title: エッジキャッシュ
-    icon: "./media/icon-cache.png"
-    url: "../bluexp-edge-caching/index.html"
-    summary: 分散した従業員にリアルタイムのグローバルファイル共有を提供します。
-    tags: all,mobility,aws,azure,gcp
   - title: Google クラウドストレージ
     icon: "./media/icon-google-cloud-storage.png"
     url: "../bluexp-google-cloud-storage/index.html"
     summary: GoogleアカウントでCloud Storageバケットを検出して管理します。
-    tags: all,storage
-  - title: Kubernetes クラスタ
-    icon: "./media/icon-kubernetes.png"
-    url: "../bluexp-kubernetes/index.html"
-    summary: ハイブリッドクラウド内の Kubernetes クラスタの高度なデータ管理。
-    tags: all,storage,aws,azure
-  - title: 移行レポート
-    icon: "./media/icon-reports.png"
-    url: "../bluexp-reports/index.html"
-    summary: ストレージ環境のファイル数、ファイルシステムツリーの深さと幅、大容量ファイルなどを特定します。
     tags: all,storage
   - title: オンプレミスの ONTAP クラスタ
     icon: "./media/icon-onprem.png"
