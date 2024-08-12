@@ -144,6 +144,11 @@ product-family:
     url: "../bluexp-replication/index.html"
     summary: バックアップとディザスタリカバリをサポートするために、ストレージシステム間でデータをレプリケートします。
     tags: all,protection
+  - title: ソフトウェアの更新
+    icon: "./media/icon-software-updates.png"
+    url: "../bluexp-software-updates/index.html"
+    summary: ONTAPアップグレードの評価、計画、実行を自動化
+    tags: all,health
   - title: StorageGRID
     icon: "./media/icon-storagegrid.png"
     url: "../bluexp-storagegrid/index.html"

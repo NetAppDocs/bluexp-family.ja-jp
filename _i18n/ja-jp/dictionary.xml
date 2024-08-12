@@ -26,9 +26,6 @@
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="sidebar">Cloud Volumes Service for Google Cloud</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">ファイルストレージをセキュアに、保護、高速化します。</block>
   <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">クラウドコンピューティング関連の支出を可視化し、削減可能なコストを特定できます。</block>
-  <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">分散した従業員にリアルタイムのグローバルファイル共有を提供します。</block>
-  <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes クラスタ</block>
-  <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">ハイブリッドクラウド内の Kubernetes クラスタの高度なデータ管理。</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">レプリケーション</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">バックアップとディザスタリカバリをサポートするために、ストレージシステム間でデータをレプリケートします。</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">すべて</block>
@@ -96,7 +93,6 @@
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">ストレージ</block>
   <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">BlueXPの使用を開始し、コネクタやアカウントなどを管理する方法について説明します。</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">BlueXPのすべての新機能について説明します。</block>
-  <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">BlueXPのアクションを自動化して、プロビジョニングを高速化し、手動作業を排除します。</block>
   <block id="19874606c485ce682436c45308e50186" category="sidebar">System ManagerとBlueXPのデータサービスを使用して、AFF システムとFAS システムをBlueXPから管理できます。</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">始める前に</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完了後</block>
@@ -182,8 +178,6 @@
   <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">[ケースの作成]*機能を使用するには、最初にNetApp Support SiteクレデンシャルをBlueXPログインに関連付ける必要があります。<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block>。</block>
   <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">シリアル番号のあるONTAPシステムのケースをオープンする場合は、そのシステムのシリアル番号にNSSアカウントを関連付ける必要があります。</block>
   <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">このエラーは、NSSアカウントとそれに関連付けられているレコードの会社が、BlueXPアカウントのシリアル番号(例960xxxx）または動作環境のシリアル番号。次のいずれかのオプションを使用して、サポートを受けることができます。</block>
-  <block id="ac7b3cf10ea08c788a374e0291742517" category="sidebar">移行レポート</block>
-  <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">ストレージ環境のファイル数、ファイルシステムツリーの深さと幅、大容量ファイルなどを特定します。</block>
   <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">ボリュームキャッシュ</block>
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">書き込み可能なキャッシュボリュームを作成して、データへのアクセスを高速化したり、アクセス頻度の高いボリュームのトラフィックをオフロードしたりします。</block>
   <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Azure BLOBストレージ</block>
@@ -222,9 +216,9 @@
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">分類</block>
   <block id="5b942e8f71976a7f4120006aa3ac54cc" category="sidebar">クラウド運用</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">コピーと同期</block>
-  <block id="ba695b3cf8b635f89946173735838948" category="sidebar">エッジキャッシュ</block>
-  <block id="282baca6aef56652f503adce6afa9f07" category="sidebar">修正</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="sidebar">階層化</block>
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">ランサムウェアからの保護</block>
   <block id="a8dd42d088a97f32bf9a4c69abc2517a" category="sidebar">ランサムウェア攻撃につながる可能性のある異常を検出ワークロードの保護とリカバリ</block>
+  <block id="5009e1070e5138d1308165bc75e5706b" category="sidebar">ソフトウェアの更新</block>
+  <block id="e5f69c6478276f31149c942722646515" category="sidebar">ONTAPアップグレードの評価、計画、実行を自動化</block>
 </blocks>
