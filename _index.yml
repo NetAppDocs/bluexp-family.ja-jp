@@ -50,7 +50,7 @@ product-family:
     summary: クラウドベースのリソースをプログラムで管理できます。
     tags: all,api
   - title: 自動化カタログ
-    icon: "./media/icon-api.png"
+    icon: "./media/icon-automation.png"
     url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: スクリプト化されたソリューションを使用して、NetApp製品とサービスの導入と統合を自動化できます。
     tags: all,governance
@@ -100,7 +100,7 @@ product-family:
     tags: all,health
     summary: 実用的な情報でストレージの健常性を最適化
   - title: デジタルウォレット
-    icon: "./media/digital-wallet.png"
+    icon: "./media/icon-digital-wallet.png"
     url: "../bluexp-digital-wallet/index.html"
     tags: all,governance
     summary: ライセンスとサブスクリプションを管理および監視します。
