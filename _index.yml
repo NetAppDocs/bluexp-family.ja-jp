@@ -9,7 +9,7 @@ product-family:
     class: active
   - title: API
     tags: api
-  - title: コネクタとアカウント
+  - title: コネクタおよびIAM
     tags: admin
   - title: 拡張子
     tags: extension
@@ -19,6 +19,8 @@ product-family:
     tags: health
   - title: モビリティ
     tags: mobility
+  - title: 監視
+    tags: monitoring
   - title: 保護
     tags: protection
   - title: ストレージ
@@ -27,13 +29,18 @@ product-family:
   - title: セットアップと管理
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
-    summary: BlueXPの使用を開始し、コネクタやアカウントなどを管理する方法について説明します。
+    summary: BlueXP  の使用を開始し、IDとアクセスの管理、コネクタなどを管理する方法について説明します。
     tags: all,admin
   - title: リリースノート
     icon: "./media/icon-docs.png"
     url: "../bluexp-relnotes/index.html"
     summary: BlueXPのすべての新機能について説明します。
     tags: all
+  - title: アラート
+    icon: "./media/icon-alerts.png"
+    url: "../bluexp-alerts/index.html"
+    summary: ONTAP環境の容量、可用性、パフォーマンス、保護、セキュリティに関連する問題を表示できます。
+    tags: all,monitoring
   - title: NetApp ONTAP 対応の Amazon FSX
     icon: "./media/icon-fsx.png"
     url: "../bluexp-fsx-ontap/index.html"
