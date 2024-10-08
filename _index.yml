@@ -9,14 +9,16 @@ product-family:
     class: active
   - title: API
     tags: api
-  - title: コネクタおよびIAM
-    tags: admin
+  - title: コネクタ
+    tags: connectors
   - title: 拡張子
     tags: extension
   - title: ガバナンス
     tags: governance
   - title: 健常性
     tags: health
+  - title: アイデンティティ管理とアクセス管理
+    tags: iam
   - title: モビリティ
     tags: mobility
   - title: 監視
@@ -30,7 +32,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
     summary: BlueXP  の使用を開始し、IDとアクセスの管理、コネクタなどを管理する方法について説明します。
-    tags: all,admin
+    tags: all,connectors,iam
   - title: リリースノート
     icon: "./media/icon-docs.png"
     url: "../bluexp-relnotes/index.html"

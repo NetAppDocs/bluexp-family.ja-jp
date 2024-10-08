@@ -219,9 +219,10 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Cloud Volumes ONTAPで次の主要なワークフローを有効にするには、NetAppサポートサイトのクレデンシャルをBlueXP  組織に関連付ける必要があります。</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">NSSクレデンシャルとBlueXP  組織の関連付けは、BlueXP  ユーザログインに関連付けられたNSSアカウントとは異なります。</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">これらのNSSクレデンシャルは、特定のBlueXP  組織IDに関連付けられています。BlueXP  組織に属するユーザは、*[サポート]&gt;[NSS管理]*からこれらのクレデンシャルにアクセスできます。</block>
-  <block id="9dab50acf79061ac1750da73c6252b67" category="sidebar">コネクタおよびIAM</block>
   <block id="423e555c5ec3885f2bb5d9d2d6627f63" category="sidebar">監視</block>
   <block id="a0174df45f2d1f45e08cc7d39acff81f" category="sidebar">BlueXP  の使用を開始し、IDとアクセスの管理、コネクタなどを管理する方法について説明します。</block>
   <block id="df583ae7ba964fd4806b55904da81813" category="sidebar">アラート</block>
   <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">ONTAP環境の容量、可用性、パフォーマンス、保護、セキュリティに関連する問題を表示できます。</block>
+  <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">コネクタ</block>
+  <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">アイデンティティ管理とアクセス管理</block>
 </blocks>
