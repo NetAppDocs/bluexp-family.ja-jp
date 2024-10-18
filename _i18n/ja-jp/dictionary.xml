@@ -88,7 +88,6 @@
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">保護</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">ストレージ</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">BlueXPのすべての新機能について説明します。</block>
-  <block id="19874606c485ce682436c45308e50186" category="sidebar">System ManagerとBlueXPのデータサービスを使用して、AFF システムとFAS システムをBlueXPから管理できます。</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">始める前に</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完了後</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="doc">セルフサポートオプションを使用します</block>
@@ -225,4 +224,5 @@
   <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">ONTAP環境の容量、可用性、パフォーマンス、保護、セキュリティに関連する問題を表示できます。</block>
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">コネクタ</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">アイデンティティ管理とアクセス管理</block>
+  <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">System ManagerとBlueXP  のデータサービスを使用して、BlueXP  からオンプレミスのONTAPクラスタを管理します。</block>
 </blocks>

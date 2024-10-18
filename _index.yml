@@ -136,7 +136,7 @@ product-family:
   - title: オンプレミスの ONTAP クラスタ
     icon: "./media/icon-onprem.png"
     url: "../bluexp-ontap-onprem/index.html"
-    summary: System ManagerとBlueXPのデータサービスを使用して、AFF システムとFAS システムをBlueXPから管理できます。
+    summary: System ManagerとBlueXP  のデータサービスを使用して、BlueXP  からオンプレミスのONTAPクラスタを管理します。
     tags: all,storage
   - title: 運用の耐障害性
     icon: "./media/icon-op-resiliency.png"
