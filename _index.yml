@@ -27,6 +27,8 @@ product-family:
     tags: protection
   - title: ストレージ
     tags: storage
+  - title: ワークロード
+    tags: workloads
   tiles:
   - title: セットアップと管理
     icon: "./media/icon-admin.png"
@@ -178,3 +180,8 @@ product-family:
     url: "../bluexp-volume-caching/index.html"
     summary: 書き込み可能なキャッシュボリュームを作成して、データへのアクセスを高速化したり、アクセス頻度の高いボリュームのトラフィックをオフロードしたりします。
     tags: all,mobility
+  - title: ワークロード
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: Amazon FSx for NetApp ONTAPを使用して主要なワークロードを設計、セットアップ、運用できます。
+    tags: all,workloads

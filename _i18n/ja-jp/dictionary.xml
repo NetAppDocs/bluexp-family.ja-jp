@@ -225,4 +225,6 @@
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">コネクタ</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">アイデンティティ管理とアクセス管理</block>
   <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">System ManagerとBlueXP  のデータサービスを使用して、BlueXP  からオンプレミスのONTAPクラスタを管理します。</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">ワークロード</block>
+  <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Amazon FSx for NetApp ONTAPを使用して主要なワークロードを設計、セットアップ、運用できます。</block>
 </blocks>
