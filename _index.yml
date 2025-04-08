@@ -73,7 +73,7 @@ product-family:
   - title: Azure NetApp Files の特長
     icon: "./media/icon-anf.png"
     url: "../bluexp-azure-netapp-files/index.html"
-    summary: コアビジネスアプリケーション向けのハイパフォーマンスなファイルストレージサービス。
+    summary: コアビジネスアプリケーションに最適なAzureのハイパフォーマンスなファイルストレージサービスです。
     tags: all,storage,azure
   - title: バックアップとリカバリ
     icon: "./media/icon-backup.png"
@@ -85,11 +85,6 @@ product-family:
     url: "../bluexp-classification/index.html"
     summary: アプリケーションデータとクラウド環境のプライバシーを確保
     tags: all,governance,aws,azure,gcp
-  - title: クラウド運用
-    icon: "./media/icon-compute.png"
-    url: "../bluexp-cloud-ops/index.html"
-    summary: クラウドコンピューティング関連の支出を可視化し、削減可能なコストを特定できます。
-    tags: all,aws,extension
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: "../bluexp-cloud-volumes-ontap/index.html"
