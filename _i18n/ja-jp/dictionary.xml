@@ -79,7 +79,6 @@
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">サポート登録ページでアカウントIDのシリアル番号を確認します。</block>
   <block id="50a1dc01b7312307c34a888071586955" category="list-text">上記の手順2からアカウントのシリアル番号をコピーし、セキュリティチェックを完了して、ネットアップのグローバルデータプライバシーポリシーを確認します。</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">BlueXPのすべてのマニュアル</block>
-  <block id="5e2f5f3c24ae8c6ab3eca618826b0e23" category="sidebar">拡張子</block>
   <block id="5a935787d6f091fc760443ab4c491465" category="sidebar">ガバナンス</block>
   <block id="605669cab962bf944d99ce89cf9e58d9" category="sidebar">健常性</block>
   <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">モビリティ</block>
@@ -196,7 +195,6 @@
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">クラウドプロバイダのファイルサービスとそのインフラ、またはサービスを使用する解決策に関連するテクニカルサポートについては、該当する製品のBlueXPドキュメントの「困ったときは」を参照してください。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">BlueXPおよびそのストレージソリューションとサービスに固有のテクニカルサポートを受けるには、以下に記載されているサポートオプションを使用してください。</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetAppでは、サポートとライセンスに固有の認証サービスのIDプロバイダとしてMicrosoftエントラIDを使用します。</block>
-  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXPは、オンプレミス環境とクラウド環境にわたってデータを構築、保護、ガバナンスするための単一のコントロールプレーンです。製品別のドキュメント領域を参照するか、上記の検索を使用してBlueXPドキュメント内の任意の場所にコンテンツを検索します。</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">バックアップとリカバリ</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">分類</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">コピーと同期</block>
@@ -225,4 +223,7 @@
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">ワークロード</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Amazon FSx for NetApp ONTAPを使用して主要なワークロードを設計、セットアップ、運用できます。</block>
   <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">コアビジネスアプリケーションに最適なAzureのハイパフォーマンスなファイルストレージサービスです。</block>
+  <block id="61c23fb0066e4005db4fe5ccd0835180" category="sidebar">NetApp BlueXPは、オンプレミス環境とクラウド環境にわたってデータを構築、保護、ガバナンスするための単一のコントロールプレーンです。製品分野別にドキュメントを参照するか、上記の検索を使用してコンテンツを見つけてください。</block>
+  <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">Keystone</block>
+  <block id="70a67804758eee026e9f460e64b2c1d7" category="sidebar">BlueXP から Keystone サブスクリプションにアクセスして管理します。</block>
 </blocks>

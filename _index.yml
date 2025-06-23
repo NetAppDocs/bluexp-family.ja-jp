@@ -1,8 +1,8 @@
 ---
 product-family:
   title: BlueXPのマニュアル
-  lead: NetApp BlueXPは、オンプレミス環境とクラウド環境にわたってデータを構築、保護、ガバナンスするための単一のコントロールプレーンです。製品別のドキュメント領域を参照するか、上記の検索を使用してBlueXPドキュメント内の任意の場所にコンテンツを検索します。
-  summary: NetApp BlueXPは、オンプレミス環境とクラウド環境にわたってデータを構築、保護、ガバナンスするための単一のコントロールプレーンです。製品別のドキュメント領域を参照するか、上記の検索を使用してBlueXPドキュメント内の任意の場所にコンテンツを検索します。
+  lead: NetApp BlueXPは、オンプレミス環境とクラウド環境にわたってデータを構築、保護、ガバナンスするための単一のコントロールプレーンです。製品分野別にドキュメントを参照するか、上記の検索を使用してコンテンツを見つけてください。
+  summary: NetApp BlueXPは、オンプレミス環境とクラウド環境にわたってデータを構築、保護、ガバナンスするための単一のコントロールプレーンです。製品分野別にドキュメントを参照するか、上記の検索を使用してコンテンツを見つけてください。
   sidebarlinks:
   - title: すべて
     tags: all
@@ -11,8 +11,6 @@ product-family:
     tags: api
   - title: コネクタ
     tags: connectors
-  - title: 拡張子
-    tags: extension
   - title: ガバナンス
     tags: governance
   - title: 健常性
@@ -129,6 +127,11 @@ product-family:
     icon: "./media/icon-google-cloud-storage.png"
     url: "../bluexp-google-cloud-storage/index.html"
     summary: GoogleアカウントでCloud Storageバケットを検出して管理します。
+    tags: all,storage
+  - title: Keystone
+    icon: "./media/icon-keystone.png"
+    url: "../keystone-staas/index.html"
+    summary: BlueXP から Keystone サブスクリプションにアクセスして管理します。
     tags: all,storage
   - title: オンプレミスの ONTAP クラスタ
     icon: "./media/icon-onprem.png"
