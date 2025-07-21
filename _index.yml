@@ -88,11 +88,6 @@ product-family:
     url: "../bluexp-cloud-volumes-ontap/index.html"
     summary: クラウドストレージを低コストでインテリジェントに、コンプライアンスに準拠し、セキュアに構築できます。
     tags: all,storage,aws,azure,gcp
-  - title: Cloud Volumes Service for Google Cloud
-    icon: "./media/icon-cvs.png"
-    url: "../bluexp-cloud-volumes-service-gcp/index.html"
-    summary: ファイルストレージをセキュアに、保護、高速化します。
-    tags: all,storage,gcp
   - title: コピーと同期
     icon: "./media/icon-sync.png"
     url: "../bluexp-copy-sync/index.html"
@@ -123,6 +118,11 @@ product-family:
     url: "../bluexp-economic-efficiency/index.html"
     summary: 現在または予測されている低容量のクラスタを特定し、データ階層化または容量追加の推奨事項を実装します。
     tags: all,governance
+  - title: Google Cloud NetAppボリューム
+    icon: "./media/icon-cvs.png"
+    url: "../bluexp-google-cloud-netapp-volumes/index.html"
+    summary: ファイルストレージをセキュアに、保護、高速化します。
+    tags: all,storage,gcp
   - title: Google クラウドストレージ
     icon: "./media/icon-google-cloud-storage.png"
     url: "../bluexp-google-cloud-storage/index.html"
