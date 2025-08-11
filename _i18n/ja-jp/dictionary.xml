@@ -15,7 +15,6 @@
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">クラウドベースのリソースをプログラムで管理できます。</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files の特長</block>
-  <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">クラウドとオンプレミスのデータをバックアップ、リストア</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">アプリケーションデータとクラウド環境のプライバシーを確保</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">オンプレミスとクラウドのデータストア間でデータを同期</block>
   <block id="c6844dc3fe4e51f03d9c9209b1f58fc4" category="sidebar">オンプレミスの ONTAP ストレージをクラウドに拡張</block>
@@ -122,8 +121,6 @@
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*ケースノートの更新*：問題の詳細を入力するか、*ファイルのアップロード*を選択して最大5つのファイルを添付します。</block>
   <block id="723ffd15eb7b4453afd0fa0af42c04c3" category="sidebar">経済効率</block>
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">現在または予測されている低容量のクラスタを特定し、データ階層化または容量追加の推奨事項を実装します。</block>
-  <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">運用の耐障害性</block>
-  <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">ファームウェアとソフトウェア設定のリスクを自動で修正し、ONTAP クラスタの健全性を維持</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">オンプレミスの ONTAP クラスタ</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">セットアップと管理</block>
@@ -226,4 +223,5 @@
   <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">NetAppは、 BlueXPとそのクラウドサービスに対して、様々なサポートを提供しています。ナレッジベース（KB）記事やコミュニティフォーラムなど、充実した無料のセルフサポートオプションを24時間365日ご利用いただけます。サポート登録には、Webチケットによるリモートテクニカルサポートも含まれます。</block>
   <block id="759d32287efdf88cd8ac71dccc0ecf8d" category="inline-image-macro">アカウントのシリアル番号、緑色のチェックボックス、および「サポートに登録済み」というテキストが表示されているスクリーンショット。</block>
   <block id="4c441b388bebcddf8c08fb782095b864" category="paragraph"><block ref="4c441b388bebcddf8c08fb782095b864" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4102ee4dc04d405e046bf0c00b9f15a7" category="sidebar">クラウドとオンプレミスのデータをバックアップおよび復元します。</block>
 </blocks>

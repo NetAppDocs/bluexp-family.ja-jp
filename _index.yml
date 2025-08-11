@@ -76,7 +76,7 @@ product-family:
   - title: バックアップとリカバリ
     icon: "./media/icon-backup.png"
     url: "../bluexp-backup-recovery/index.html"
-    summary: クラウドとオンプレミスのデータをバックアップ、リストア
+    summary: クラウドとオンプレミスのデータをバックアップおよび復元します。
     tags: all,aws,azure,gcp,protection
   - title: 分類
     icon: "./media/icon-data-sense.png"
@@ -138,11 +138,6 @@ product-family:
     url: "../bluexp-ontap-onprem/index.html"
     summary: System ManagerとBlueXP  のデータサービスを使用して、BlueXP  からオンプレミスのONTAPクラスタを管理します。
     tags: all,storage
-  - title: 運用の耐障害性
-    icon: "./media/icon-op-resiliency.png"
-    url: "../bluexp-operational-resiliency/index.html"
-    summary: ファームウェアとソフトウェア設定のリスクを自動で修正し、ONTAP クラスタの健全性を維持
-    tags: all,health
   - title: ランサムウェアからの保護
     icon: "./media/icon-ransomware.png"
     url: "../bluexp-ransomware-protection/index.html"
